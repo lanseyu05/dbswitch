@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-online.yueyun.dbswitch.config.DBSwitchAutoConfiguration 
+online.yueyun.dbswitch.config.DBSwitchAutoConfiguration
